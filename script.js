@@ -40,7 +40,7 @@ const content = {
     testi_eyebrow:   "— what students say",
     testi_title:     "REAL RESULTS.<br><em>Real people.</em>",
     t1_quote:        '"Reynaldo completely changed how I feel about speaking English. I went from avoiding it to actually enjoying it."',
-    t2_quote:        '"He is very professional in his classes and takes real-life cases to make it dynamic and intresting, all at your own pace, so I recommend him if you want to study in a fun way while being focused on your goals."',
+    t2_quote:        '"He is very professional in his classes and takes real-life cases to make it dynamic and interesting, all at your own pace, so I recommend him if you want to study in a fun way while being focused on your goals."',
     t3_quote:        '"Professional, patient, and genuinely invested in your progress. Best investment I made this year."',
 
     contact_eyebrow: "— let's work together",
@@ -85,8 +85,6 @@ const content = {
     s1_body:         "Para estudiantes que conocen la gramática pero se bloquean al hablar. Sesiones enfocadas en fluidez, confianza y sonar natural.",
     s2_title:        "Inglés de<br>Negocios",
     s2_body:         "Correos, presentaciones, reuniones, negociaciones. Inglés para el mundo profesional — preciso, seguro y pulido.",
-    s3_title:        "Preparación<br>para Exámenes",
-    s3_body:         "IELTS · TOEFL · Cambridge. Preparación estructurada con alguien que sabe exactamente lo que buscan los examinadores.",
     s4_title:        "Principiante a<br>Intermedio",
     s4_body:         "Comenzando desde cero o retomando donde lo dejaste. Paciente, estructurado y siempre motivador.",
 
@@ -102,7 +100,7 @@ const content = {
     testi_eyebrow:   "— lo que dicen los estudiantes",
     testi_title:     "RESULTADOS REALES.<br><em>Personas reales.</em>",
     t1_quote:        '"Reynaldo cambió por completo cómo me siento al hablar inglés. Pasé de evitarlo a disfrutarlo."',
-    t2_quote:        '"Aprobé el IELTS con 7.5. No lo hubiera logrado sin estas clases."',
+    t2_quote:        '"Es muy profesional en sus clases y utiliza casos de la vida real para hacerlas dinámicas e interesantes, todo a tu propio ritmo. Lo recomiendo si quieres estudiar de una manera divertida sin perder el enfoque en tus objetivos."',
     t3_quote:        '"Profesional, paciente y genuinamente comprometido con tu progreso. La mejor inversión que hice este año."',
 
     contact_eyebrow: "— trabajemos juntos",
