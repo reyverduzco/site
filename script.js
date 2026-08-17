@@ -40,16 +40,14 @@ const content = {
     testi_eyebrow:   "— what students say",
     testi_title:     "REAL RESULTS.<br><em>Real people.</em>",
     t1_quote:        '"Reynaldo completely changed how I feel about speaking English. I went from avoiding it to actually enjoying it."',
-    t2_quote:        '"I passed my IELTS with a 7.5. Couldn\'t have done it without these sessions."',
+    t2_quote:        '"He is very professional in his classes and takes real-life cases to make it dynamic and intresting, all at your own pace, so I recommend him if you want to study in a fun way while being focused on your goals."',
     t3_quote:        '"Professional, patient, and genuinely invested in your progress. Best investment I made this year."',
 
     contact_eyebrow: "— let's work together",
     contact_title:   "READY TO<br>START?",
     contact_italic:  "Just say hello.",
     contact_intro:   "Ready to start? Have a question? Just reach out — no pressure, no commitment. The first conversation is always free.",
-    c_wa:            "WhatsApp",
     c_em:            "Email",
-    c_ig:            "Instagram",
     contact_cta:     "SEND A MESSAGE ↗",
 
     footer_tag:      "Designed with intention.",
@@ -111,9 +109,7 @@ const content = {
     contact_title:   "¿LISTO PARA<br>EMPEZAR?",
     contact_italic:  "Solo di hola.",
     contact_intro:   "¿Listo para empezar? ¿Tienes una pregunta? Solo escríbeme — sin presión, sin compromiso. La primera conversación siempre es gratis.",
-    c_wa:            "WhatsApp",
     c_em:            "Correo",
-    c_ig:            "Instagram",
     contact_cta:     "ENVIAR MENSAJE ↗",
 
     footer_tag:      "Diseñado con intención.",
